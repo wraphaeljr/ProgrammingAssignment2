@@ -40,4 +40,4 @@ cacheSolve <- function(x, ...) {
 ## program would figure out whether the corresponding inverse had been
 ## stored or if it needed to be computed. Since we were given a stub
 ## to start out with, I tried to adhere to the format the instructions
-## seemed to put forth.
+## seemed to suggest.
